@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+    cout<<"hello world"<<endl;
+    cout<<"I am Atharva Hegade"<<endl;
+    cout<<"I study in MIT ADT UNIVERSITY"<<endl;
+
+    return 0;
+}
